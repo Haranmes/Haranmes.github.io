@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c41cdb2.css",
-    "main.js": "/static/js/main.5c1ce51b.js",
-    "static/js/787.5242c071.chunk.js": "/static/js/787.5242c071.chunk.js",
-    "static/media/Ramez.jpg": "/static/media/Ramez.ac1dd96a116fd50ee5ca.jpg",
-    "static/media/LogoRamez.svg": "/static/media/LogoRamez.aa36ef5a3a7ffaa9d0b9af993f6035dd.svg",
-    "index.html": "/index.html",
-    "main.0c41cdb2.css.map": "/static/css/main.0c41cdb2.css.map",
-    "main.5c1ce51b.js.map": "/static/js/main.5c1ce51b.js.map",
-    "787.5242c071.chunk.js.map": "/static/js/787.5242c071.chunk.js.map"
+    "main.css": "/Haranmes.github.io/static/css/main.0c41cdb2.css",
+    "main.js": "/Haranmes.github.io/static/js/main.127c4f8b.js",
+    "static/js/787.5242c071.chunk.js": "/Haranmes.github.io/static/js/787.5242c071.chunk.js",
+    "static/media/Ramez.jpg": "/Haranmes.github.io/static/media/Ramez.ac1dd96a116fd50ee5ca.jpg",
+    "static/media/LogoRamez.svg": "/Haranmes.github.io/static/media/LogoRamez.aa36ef5a3a7ffaa9d0b9af993f6035dd.svg",
+    "index.html": "/Haranmes.github.io/index.html",
+    "main.0c41cdb2.css.map": "/Haranmes.github.io/static/css/main.0c41cdb2.css.map",
+    "main.127c4f8b.js.map": "/Haranmes.github.io/static/js/main.127c4f8b.js.map",
+    "787.5242c071.chunk.js.map": "/Haranmes.github.io/static/js/787.5242c071.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c41cdb2.css",
-    "static/js/main.5c1ce51b.js"
+    "static/js/main.127c4f8b.js"
   ]
 }
