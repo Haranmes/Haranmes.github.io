@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c41cdb2.css",
-    "main.js": "/static/js/main.c9f936e9.js",
+    "main.css": "/static/css/main.a65eb1f4.css",
+    "main.js": "/static/js/main.69f0ad6c.js",
     "static/js/787.5242c071.chunk.js": "/static/js/787.5242c071.chunk.js",
+    "static/media/school.jpg": "/static/media/school.5658afd545fe7a9939c8.jpg",
+    "static/media/pexels-luis-gomes-546819.jpg": "/static/media/pexels-luis-gomes-546819.76c4344da2119d02a7fb.jpg",
     "static/media/Ramez.jpg": "/static/media/Ramez.ac1dd96a116fd50ee5ca.jpg",
     "static/media/LogoRamez.svg": "/static/media/LogoRamez.aa36ef5a3a7ffaa9d0b9af993f6035dd.svg",
     "index.html": "/index.html",
-    "main.0c41cdb2.css.map": "/static/css/main.0c41cdb2.css.map",
-    "main.c9f936e9.js.map": "/static/js/main.c9f936e9.js.map",
+    "main.a65eb1f4.css.map": "/static/css/main.a65eb1f4.css.map",
+    "main.69f0ad6c.js.map": "/static/js/main.69f0ad6c.js.map",
     "787.5242c071.chunk.js.map": "/static/js/787.5242c071.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c41cdb2.css",
-    "static/js/main.c9f936e9.js"
+    "static/css/main.a65eb1f4.css",
+    "static/js/main.69f0ad6c.js"
   ]
 }
