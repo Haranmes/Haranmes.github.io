@@ -8,7 +8,7 @@ import Contact from './pages/contact.jsx'
 function App() {
   return (
     <div className="App">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Navigation />
             <Routes>
                 <Route exact path='/' element={<Home/>} />
